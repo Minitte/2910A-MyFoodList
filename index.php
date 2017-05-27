@@ -6,6 +6,7 @@
     <head>
         <?php include("include/head.inc"); ?>
         <link rel="stylesheet" href="css/home.css">
+        <link rel="stylesheet" href="css/themeBlack.css" />
 
         <script>
             function easterEggOver() {
@@ -24,7 +25,6 @@
 //                egg.innerHTML = "Waste Less";
             }
         </script>
-
     </head>
 
     <body class="rain">
