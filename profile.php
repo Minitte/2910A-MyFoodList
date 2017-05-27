@@ -81,9 +81,8 @@ $resultAllergies = mysqli_query($db_link, $sql);
 
                       <!-- Modal content -->
                       <div class="modal-content">
+                          <button type="button" class="close">&times;</button>
                           <input type="text" class="form-control" id="newImage" name="newImage" placeholder="Paste the link to your new image here">
-                        <span class="close">&times;</span>
-
                      </div>
 
                  </div>
@@ -248,7 +247,7 @@ $resultAllergies = mysqli_query($db_link, $sql);
                                   href="https://twitter.com/share"
                                   data-size="large"
                                   data-text="Check out my iPicky profile!"
-                                  data-url="https://ipicky.me/profile?user=' . $accNo . '"
+                                  data-url="http://ipicky.me/profile.php?user=' . $accNo . '"
                                   data-hashtags="iPicky, comp2910">
                             Tweet
                             </a>'
@@ -256,7 +255,7 @@ $resultAllergies = mysqli_query($db_link, $sql);
                         </div>
                         <div class="gplusButton">
                         <!-- gplus button -->
-                        <div class="g-plus" data-action="share" data-height="24" data-href="https://ipicky.me"></div>
+                        <div class="g-plus" data-action="share" data-height="24" data-href="http://ipicky.me"></div>
                         </div>
                         <!--Facebook Button
 
