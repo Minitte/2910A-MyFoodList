@@ -20,9 +20,12 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-6">
-                        <h2>Pull them In header</h2>
-                        <p>Fusce vel tempus ante, id vestibulum arcu. Maecenas molestie faucibus turpis, in imperdiet libero bibendum eget. Nam ornare commodo arcu ut lacinia. Cras ut tincidunt diam, egestas posuere sem.</p>
-
+                        <div class="thePull">
+                            <div class="page-header">
+                                <h2>Pull them In header</h2>
+                            </div>
+                            <p>Fusce vel tempus ante, id vestibulum arcu. Maecenas molestie faucibus turpis, in imperdiet libero bibendum eget. Nam ornare commodo arcu ut lacinia. Cras ut tincidunt diam, egestas posuere sem.</p>
+                        </div>
                     </div>
                     <div class="col-sm-6">
 
@@ -64,7 +67,9 @@
 
                     </div>
                     <div class="col-sm-8">
-                        <h2>What's happening?</h2>
+                        <div class="page-header">
+                            <h2>What's happening?</h2>
+                        </div>
                         <p>About 20% of all foods blah blah...Aenean et vestibulum libero, vitae fringilla massa. Maecenas eget elementum lorem, non eleifend risus. Etiam facilisis ipsum tempor mauris volutpat auctor. </p>
                         <p>Vestibulum malesuada elit quis pulvinar maximus. Nulla facilisi. Aliquam finibus risus libero, eu varius mi aliquam sed. Curabitur vitae mi at ipsum maximus varius. Ut ex dolor, semper quis sollicitudin sit amet, consequat ac nunc.</p>
 
@@ -116,7 +121,9 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-8">
-                        <h2>Something here</h2>
+                        <div class="page-header">
+                            <h2>Something here</h2>
+                        </div>
                         <p>Morbi fringilla augue commodo, dapibus turpis eget, dictum odio. Praesent mollis lorem leo. Praesent id elit pretium, volutpat ligula at, dictum orci. Donec ultricies dolor eu mi suscipit sagittis. </p>
                         <p>Pellentesque in pulvinar tortor. Ut sit amet placerat felis. Praesent sit amet ultricies enim. Donec vitae interdum nisi. Donec rhoncus magna eu arcu commodo condimentum. Donec pulvinar vitae enim vulputate pharetra.</p>
                     </div>
