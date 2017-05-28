@@ -15,7 +15,12 @@ form .input-group {
 
 /* general css */
 
-section {
+section:nth-child(1){
+    padding: 30px 0 100px;
+}
+
+
+section:nth-child(n+2){
     padding: 100px 0;
 }
 
