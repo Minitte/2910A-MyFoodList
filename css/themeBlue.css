@@ -13,3 +13,11 @@ body{
 .navbar-inverse{
     border-color: transparent;
 }
+
+.navbar-inverse .navbar-toggle{
+    border: none;
+}
+
+.navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover{
+    background-color: #3277b3;
+}
