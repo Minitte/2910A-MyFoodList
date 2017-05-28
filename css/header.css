@@ -3,6 +3,10 @@
     background-color: #222;
 }
 
+nav{
+    box-shadow: 0px 6px 8px rgba(32, 32, 32, 0.2);
+}
+
 /* screen related */
 
 @media (min-width: 768px){

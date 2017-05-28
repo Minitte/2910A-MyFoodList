@@ -30,6 +30,7 @@ p {
 
 .bgDark {
     background-color: rgba(157, 195, 225, 0.4);
+    box-shadow: 0px 10px 15px rgba(32, 32, 32, 0.15), 0px -4px 15px rgba(32, 32, 32, 0.15);
 }
 
 .glyphiconBig {
@@ -54,6 +55,11 @@ section ul li {
     padding: 10px 0;
 }
 
+
+/* overrides for style.css */
+.contentBox{
+    box-shadow: 4px 4px 8px rgba(32, 32, 32, 0.15);
+}
 
 /* slide stuff */
 
